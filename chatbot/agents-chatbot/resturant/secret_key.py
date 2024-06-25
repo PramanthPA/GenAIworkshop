@@ -1,0 +1,2 @@
+cohere_key = "dSFne26NhUTR2VABw98IOvkoDaCVObjwGJXf31aK"
+serpapi_key = "dSFne26NhUTR2VABw98IOvkoDaCVObjwGJXf31aK"
